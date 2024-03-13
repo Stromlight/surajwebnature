@@ -1,32 +1,34 @@
 # Prerequisites
-*.d
+*.d.education
 
 # Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+*.slo.contentpage
+*.lo.introduction
+*.o.pharse
+*.obj.ideas.
 
 # Precompiled Headers
-*.gch
-*.pch
+*.gch.naturalworld
+*.pchclimatefocus
 
 # Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+*.somyown
+*.dylibmyown
+*.dllmyown
 
 # Fortran module files
-*.mod
-*.smod
+*.mod.topick
+*.smod.chapters
 
 # Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+*.lai.naturalscience
+*.la.naturalscience
+*.a.naturalscience
+*.lib.naturalscience
 
 # Executables
-*.exe
-*.out
-*.app
+*.exe.generating.ideas
+*.out.ideas.solution
+*.app.solution
+end.c++
+
